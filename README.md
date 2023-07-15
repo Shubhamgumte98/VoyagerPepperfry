@@ -1,2 +1,2 @@
 # VoyagerPepperfry
-Vpyager 2.0 redesign
+Vpyager 2.0 redesign - all about checkout and discovery
